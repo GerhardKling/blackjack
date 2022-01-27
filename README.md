@@ -1,7 +1,11 @@
 # Blackjack :hearts::clubs::diamonds::spades:
 Simple version of Blackjack for education and fun.
 
-This project is suitable for students that know lists, loops, branching and classes.
+This project is suitable as a first project in Python.
+
+It is useful if you know a bit about lists, loops, branching and classes.
+
+However, everything is explained in sufficient detail if you are new to it.
 
 I split the project into 8 Sessions as outlined below.
 
