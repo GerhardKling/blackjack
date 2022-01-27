@@ -8,17 +8,17 @@ I split the project into 8 Sessions as outlined below.
 I am not a Blackjack expert; hence, some adjustments will be needed!
 
 ## Introduction
-You can watch the Intro here: https://youtu.be/tS5o3SMwbHw
+You can watch the Intro on [YouTube](https://youtu.be/tS5o3SMwbHw)
 
 Sessions:
 
 ## Session 1: start main.py, card.py, and deck.py
 
-Video: https://youtu.be/ZlNr71VJ__0
+[YouTube Video 1](https://youtu.be/ZlNr71VJ__0)
 
 ## Session 2: add tests in folder Tests; introduction to test-driven development
 
-[YouTube](https://youtu.be/XZFGfhhQO8U)
+[YouTube Video 2](https://youtu.be/XZFGfhhQO8U)
 
 ## Session 3: adds player.py and game.py
 
