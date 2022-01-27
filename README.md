@@ -1,4 +1,4 @@
-# Blackjack :hearts:
+# Blackjack :hearts::clubs::diamonds::spades:
 Simple version of Blackjack for education and fun.
 
 This project is suitable for students that know lists, loops, branching and classes.
